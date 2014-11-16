@@ -1,0 +1,7 @@
+{
+	"name": "redmine",
+	"displayName": "Redmine",
+	"description": "Search in your Redmine",
+	"examples": ["redmine search words"],
+	"categories": ["Redmine"]
+}
