@@ -1,7 +1,10 @@
 {
 	"name": "redmine",
 	"displayName": "Redmine",
+	"displayName_ja": "Redmine",
 	"description": "Search in your Redmine",
+	"description_ja": "Redmine で検索します",
 	"examples": ["redmine search words"],
+	"examples_ja": ["redmine 検索語"],
 	"categories": ["Redmine"]
 }
